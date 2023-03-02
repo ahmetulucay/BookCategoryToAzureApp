@@ -1,4 +1,5 @@
-﻿using BookCategoryToAzureApp.Models;
+﻿
+using BookCategoryToAzureApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

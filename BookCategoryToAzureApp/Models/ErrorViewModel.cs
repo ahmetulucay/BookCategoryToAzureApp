@@ -1,3 +1,4 @@
+
 namespace BookCategoryToAzureApp.Models
 {
     public class ErrorViewModel

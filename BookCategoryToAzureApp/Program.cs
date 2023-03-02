@@ -13,6 +13,7 @@ builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
+#region Pipeline
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
@@ -34,3 +35,4 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+#endregion
