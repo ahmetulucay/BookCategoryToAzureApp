@@ -47,7 +47,7 @@
 ![MSSQL](https://user-images.githubusercontent.com/57094137/222494661-dbaa7d18-51c8-4b42-b197-1a71b883c6d3.png)
 
 ----------------------------------------
-9.Toastr=
+9.Toastr(Toast Notification)=
 
 ![Toastr 2](https://user-images.githubusercontent.com/57094137/222501705-94ad72e6-2eb3-4919-a63a-3a3bd7a5b03f.jpg)
 
